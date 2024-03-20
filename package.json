@@ -1,0 +1,21 @@
+{
+  "name": "bid-engine-multipage",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "http-server dist"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "vee-validate": "^4.12.6",
+    "vue": "3.3.2",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.0.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.32.4",
+    "vite": "^2.0.0-beta.47"
+  }
+}
